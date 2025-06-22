@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <IdProduct>140</IdProduct>
+    <Name>Blush</Name>
+    <Category>FaceMakeup</Category>
+    <Price>48</Price>
+    <AmountInStock>250</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>141</IdProduct>
+    <Name>Bronzer</Name>
+    <Category>FaceMakeup</Category>
+    <Price>212</Price>
+    <AmountInStock>100</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>142</IdProduct>
+    <Name>Highlighter</Name>
+    <Category>FaceMakeup</Category>
+    <Price>130</Price>
+    <AmountInStock>88</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>143</IdProduct>
+    <Name>Face Primer</Name>
+    <Category>FaceMakeup</Category>
+    <Price>189</Price>
+    <AmountInStock>85</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>145</IdProduct>
+    <Name>BB Cream</Name>
+    <Category>FaceMakeup</Category>
+    <Price>280</Price>
+    <AmountInStock>120</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>146</IdProduct>
+    <Name>CC Cream</Name>
+    <Category>FaceMakeup</Category>
+    <Price>145</Price>
+    <AmountInStock>80</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>147</IdProduct>
+    <Name>Mascara</Name>
+    <Category>EyeMakeup</Category>
+    <Price>150</Price>
+    <AmountInStock>150</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>148</IdProduct>
+    <Name>Eyeliner</Name>
+    <Category>EyeMakeup</Category>
+    <Price>22</Price>
+    <AmountInStock>50</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>149</IdProduct>
+    <Name>Eye Pencil</Name>
+    <Category>EyeMakeup</Category>
+    <Price>14</Price>
+    <AmountInStock>80</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>150</IdProduct>
+    <Name>Single Eyeshadow</Name>
+    <Category>EyeMakeup</Category>
+    <Price>15</Price>
+    <AmountInStock>150</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>151</IdProduct>
+    <Name>Eyeshadow Palette</Name>
+    <Category>EyeMakeup</Category>
+    <Price>220</Price>
+    <AmountInStock>50</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>152</IdProduct>
+    <Name>Eyebrow Gel</Name>
+    <Category>EyeMakeup</Category>
+    <Price>13</Price>
+    <AmountInStock>88</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>154</IdProduct>
+    <Name>Eyeshadow Primer</Name>
+    <Category>EyeMakeup</Category>
+    <Price>20</Price>
+    <AmountInStock>95</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>155</IdProduct>
+    <Name>False Eyelashes</Name>
+    <Category>EyeMakeup</Category>
+    <Price>28</Price>
+    <AmountInStock>120</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>156</IdProduct>
+    <Name>Lash Glue</Name>
+    <Category>EyeMakeup</Category>
+    <Price>14</Price>
+    <AmountInStock>80</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>157</IdProduct>
+    <Name>Matte Lipstick</Name>
+    <Category>LipMakeup</Category>
+    <Price>15</Price>
+    <AmountInStock>150</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>158</IdProduct>
+    <Name>Glossy Lipstick</Name>
+    <Category>LipMakeup</Category>
+    <Price>22</Price>
+    <AmountInStock>50</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>159</IdProduct>
+    <Name>Lip Gloss</Name>
+    <Category>LipMakeup</Category>
+    <Price>14</Price>
+    <AmountInStock>80</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>160</IdProduct>
+    <Name>Lip Liner</Name>
+    <Category>LipMakeup</Category>
+    <Price>15</Price>
+    <AmountInStock>150</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>161</IdProduct>
+    <Name>Lip Balm</Name>
+    <Category>LipMakeup</Category>
+    <Price>22</Price>
+    <AmountInStock>50</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>162</IdProduct>
+    <Name>Liquid Lipstick</Name>
+    <Category>LipMakeup</Category>
+    <Price>13</Price>
+    <AmountInStock>88</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>163</IdProduct>
+    <Name>Lip Tint</Name>
+    <Category>LipMakeup</Category>
+    <Price>18</Price>
+    <AmountInStock>85</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>164</IdProduct>
+    <Name>Moisturizing Lipstick</Name>
+    <Category>LipMakeup</Category>
+    <Price>20</Price>
+    <AmountInStock>95</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>165</IdProduct>
+    <Name>Lip Scrub</Name>
+    <Category>LipMakeup</Category>
+    <Price>28</Price>
+    <AmountInStock>120</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>166</IdProduct>
+    <Name>Lip Primer</Name>
+    <Category>LipMakeup</Category>
+    <Price>14</Price>
+    <AmountInStock>80</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>167</IdProduct>
+    <Name>Moisturizer</Name>
+    <Category>Skincare</Category>
+    <Price>150</Price>
+    <AmountInStock>150</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>168</IdProduct>
+    <Name>Night Cream</Name>
+    <Category>Skincare</Category>
+    <Price>220</Price>
+    <AmountInStock>50</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>170</IdProduct>
+    <Name>Exfoliating Scrub</Name>
+    <Category>Skincare</Category>
+    <Price>150</Price>
+    <AmountInStock>150</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>171</IdProduct>
+    <Name>Face Mask</Name>
+    <Category>Skincare</Category>
+    <Price>220</Price>
+    <AmountInStock>50</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>172</IdProduct>
+    <Name>Toner</Name>
+    <Category>Skincare</Category>
+    <Price>130</Price>
+    <AmountInStock>88</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>173</IdProduct>
+    <Name>Facial Cleanser</Name>
+    <Category>Skincare</Category>
+    <Price>180</Price>
+    <AmountInStock>85</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>174</IdProduct>
+    <Name>Clay Mask</Name>
+    <Category>Skincare</Category>
+    <Price>200</Price>
+    <AmountInStock>95</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>175</IdProduct>
+    <Name>Facial Mist</Name>
+    <Category>Skincare</Category>
+    <Price>280</Price>
+    <AmountInStock>120</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>176</IdProduct>
+    <Name>Face Oil</Name>
+    <Category>Skincare</Category>
+    <Price>140</Price>
+    <AmountInStock>80</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>177</IdProduct>
+    <Name>Foundation Brush</Name>
+    <Category>MakeupToolsAndAccessories</Category>
+    <Price>45</Price>
+    <AmountInStock>200</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>179</IdProduct>
+    <Name>Eyeshadow Brush</Name>
+    <Category>MakeupToolsAndAccessories</Category>
+    <Price>65</Price>
+    <AmountInStock>155</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>180</IdProduct>
+    <Name>Beauty Blender Sponge</Name>
+    <Category>MakeupToolsAndAccessories</Category>
+    <Price>48</Price>
+    <AmountInStock>250</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>181</IdProduct>
+    <Name>Eyebrow Comb</Name>
+    <Category>MakeupToolsAndAccessories</Category>
+    <Price>21</Price>
+    <AmountInStock>100</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>182</IdProduct>
+    <Name>Tweezers</Name>
+    <Category>MakeupToolsAndAccessories</Category>
+    <Price>13</Price>
+    <AmountInStock>88</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>183</IdProduct>
+    <Name>Pencil Sharpener</Name>
+    <Category>MakeupToolsAndAccessories</Category>
+    <Price>18</Price>
+    <AmountInStock>85</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>184</IdProduct>
+    <Name>Makeup Bag</Name>
+    <Category>MakeupToolsAndAccessories</Category>
+    <Price>20</Price>
+    <AmountInStock>95</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>185</IdProduct>
+    <Name>Magnifying Mirror</Name>
+    <Category>MakeupToolsAndAccessories</Category>
+    <Price>28</Price>
+    <AmountInStock>120</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>186</IdProduct>
+    <Name>Lip Brush</Name>
+    <Category>MakeupToolsAndAccessories</Category>
+    <Price>14</Price>
+    <AmountInStock>80</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>153</IdProduct>
+    <Name>Liquid Eyeshadow</Name>
+    <Category>EyeMakeup</Category>
+    <Price>18</Price>
+    <AmountInStock>85</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>178</IdProduct>
+    <Name>Blush Brush</Name>
+    <Category>MakeupToolsAndAccessories</Category>
+    <Price>70</Price>
+    <AmountInStock>150</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>144</IdProduct>
+    <Name>Setting Spray</Name>
+    <Category>FaceMakeup</Category>
+    <Price>200</Price>
+    <AmountInStock>95</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>169</IdProduct>
+    <Name>Face Serum</Name>
+    <Category>Skincare</Category>
+    <Price>140</Price>
+    <AmountInStock>76</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>139</IdProduct>
+    <Name>Concealer</Name>
+    <Category>FaceMakeup</Category>
+    <Price>65</Price>
+    <AmountInStock>149</AmountInStock>
+  </Product>
+</ArrayOfProduct>

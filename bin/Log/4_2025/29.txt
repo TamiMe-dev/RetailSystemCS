@@ -1,0 +1,1 @@
+2025-04-29 11:43:41	DalTest.Program.Program:	Error! Could not find file 'M:\C#.net\פרויקט בC# .net\DotNet2025_7516_7673\bin\products.xml'.

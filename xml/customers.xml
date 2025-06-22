@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomer>
+  <Customer>
+    <IdCustomer>327802228</IdCustomer>
+    <Name>Tami Medan</Name>
+    <Address>Modiin Ilit</Address>
+    <Phone>0548562881</Phone>
+  </Customer>
+  <Customer>
+    <IdCustomer>218993698</IdCustomer>
+    <Name>מיכל ביטון</Name>
+    <Address>מרומי שדה 38</Address>
+    <Phone>0527683194</Phone>
+  </Customer>
+  <Customer>
+    <IdCustomer>555555555</IdCustomer>
+    <Name>חרהכמהחכהע</Name>
+    <Address>עכנכה כהההכג</Address>
+    <Phone>46546546546</Phone>
+  </Customer>
+  <Customer>
+    <IdCustomer>25874698</IdCustomer>
+    <Name>111111111111</Name>
+    <Address>111111111</Address>
+    <Phone>1111111111</Phone>
+  </Customer>
+  <Customer>
+    <IdCustomer>214787673</IdCustomer>
+    <Name>תמר ביטון</Name>
+    <Address>מודעין עילית</Address>
+    <Phone>0583235240</Phone>
+  </Customer>
+  <Customer>
+    <IdCustomer>326786364</IdCustomer>
+    <Name>miri levi</Name>
+    <Address>מרומי שדה</Address>
+    <Phone>05045123652</Phone>
+  </Customer>
+  <Customer>
+    <IdCustomer>1122546252</IdCustomer>
+    <Name>כנסגכמע</Name>
+    <Address>מעמע</Address>
+    <Phone>ענהמעמ</Phone>
+  </Customer>
+  <Customer>
+    <IdCustomer>659899589</IdCustomer>
+    <Name>עמעכחמ</Name>
+    <Address>נצעכצחעיח</Address>
+    <Phone>נמהמ</Phone>
+  </Customer>
+  <Customer>
+    <IdCustomer>214787679</IdCustomer>
+    <Name>מיכל</Name>
+    <Address>מרומי שדה 38</Address>
+    <Phone>0527683794</Phone>
+  </Customer>
+  <Customer>
+    <IdCustomer>327735158</IdCustomer>
+    <Name>שבי</Name>
+    <Address>שערי תשובה</Address>
+    <Phone>055555555</Phone>
+  </Customer>
+  <Customer>
+    <IdCustomer>328157516</IdCustomer>
+    <Name>אילה כהן</Name>
+    <Address>הריטבא</Address>
+    <Phone>03333333</Phone>
+  </Customer>
+  <Customer>
+    <IdCustomer>214787579</IdCustomer>
+    <Name>נאוה</Name>
+    <Address>הריטב"א</Address>
+    <Phone>0556703396</Phone>
+  </Customer>
+</ArrayOfCustomer>
